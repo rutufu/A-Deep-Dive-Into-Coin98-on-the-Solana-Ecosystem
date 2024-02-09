@@ -2,6 +2,7 @@
 
 # PREFACE
 The decentralized finance (DeFi) landscape is bustling with diverse platforms vying for user attention. Among them is COIN98. Coin98 stands out for its all-in-one approach, aiming to become the "Gateway" bridging traditional finance (TradFi) users to the vast opportunities of DeFi. This deep dive explores Coin98's ecosystem, delving into its products, features, potential, and what makes it an exciting player in the space.
+![coin98](https://github.com/rutufu/A-Deep-Dive-Into-Coin98-on-the-Solana-Ecosystem/assets/84708060/d1a32842-3818-4683-96bb-6dee0fd2efee)
 
 # INTRODUCTION TO COIN98
 Coin98 stands as a multifaceted platform within the burgeoning landscape of decentralized finance (DeFi) and cryptocurrency. Founded in 2020, it has rapidly evolved into a comprehensive suite of tools and services catering to both newcomers and seasoned participants in the crypto space. Coin98's offerings span from decentralized wallets to exchange aggregation, staking functionalities, and more.  Coin98 as a multi-chain DeFi platform encompassing an array of products and services under one roof. Its mission is to simplify DeFi, making it accessible and intuitive for everyone, regardless of technical expertise.
@@ -10,6 +11,8 @@ Coin98 stands as a multifaceted platform within the burgeoning landscape of dece
 Recognizing the complexities and fragmentation of DeFi, Coin98 seeks to streamline user experience and offer a comprehensive suite of tools for managing, investing, and earning in the crypto sphere.
 
 # PRODUCT AND SUB-FEATURES
+![deep dive coin98](https://github.com/rutufu/A-Deep-Dive-Into-Coin98-on-the-Solana-Ecosystem/assets/84708060/6eac7efe-c30a-4e46-83bd-df2f0da330db)
+
 
 # Coin98 Wallet
 A non-custodial wallet supporting multiple blockchains and offering secure storage for crypto assets.  A non-custodial cryptocurrency wallet that allows users to securely store, manage, and trade various digital assets across multiple blockchains. Essentially, it's your own personal vault for cryptocurrencies, accessible on both iOS and Android mobile apps.
@@ -37,6 +40,8 @@ Supported Assets: Hundreds of cryptocurrencies and tokens
 
 
 # Coin98 Exchange
+![coin98 exchange](https://github.com/rutufu/A-Deep-Dive-Into-Coin98-on-the-Solana-Ecosystem/assets/84708060/4b81ef7c-8c4f-4662-9df1-78d896be30d8)
+
 A decentralized exchange (DEX) facilitating seamless cross-chain swaps and liquidity pool participation.  The Coin98 Exchange serves as a decentralized exchange (DEX) aggregator, pooling liquidity from various DEXs to offer users optimal trade execution and competitive rates. Its interface simplifies the trading process and enhances liquidity across different blockchain networks. A decentralized exchange (DEX) platform built within the Coin98 ecosystem, facilitating peer-to-peer (P2P) trading of cryptocurrencies without intermediaries. Imagine a marketplace where you directly connect with other users to exchange your crypto without relying on centralized entities.
 
 # Coin98 Exchange Key features includes;
@@ -65,6 +70,8 @@ Supported trading pairs: Hundreds of pairs available, including popular tokens l
 Number of users: Data not publicly available, but likely lower than Coin98 Wallet due to the more advanced nature of DEX trading
 
 # Coin98 Markets
+![coin98 market](https://github.com/rutufu/A-Deep-Dive-Into-Coin98-on-the-Solana-Ecosystem/assets/84708060/e58f39a4-dc05-45cf-905a-ea05e99c04f9)
+
 Real-time market data and price tracking for various cryptocurrencies and DeFi protocols. Coin98 Markets provides users with comprehensive market data, including price charts, trading volume, and liquidity metrics across multiple cryptocurrencies and tokens. This feature empowers users to stay informed about market trends and identify potential trading opportunities
 While Coin98 doesn't have a dedicated "market" per se, it encompasses various products and services within the crypto space, forming a comprehensive ecosystem.
 
@@ -99,9 +106,13 @@ Token price and market cap: Moderate compared to top cryptocurrencies
 Trading volume: Varied across different products
 
 # Coin98 Terminals
+![coin98 terminal](https://github.com/rutufu/A-Deep-Dive-Into-Coin98-on-the-Solana-Ecosystem/assets/84708060/f3df0e44-e00f-489b-bdfb-5d07b4bdd247)
+
 Advanced charting and technical analysis tools for traders and investors. Coin98 Terminals offer advanced trading tools and analytics for professional traders and institutions.
 
 # Coin98 Staking
+![coin98 staking](https://github.com/rutufu/A-Deep-Dive-Into-Coin98-on-the-Solana-Ecosystem/assets/84708060/71eda7ae-73bd-4cda-8932-98a2b7c21275)
+
 Earning opportunities through various yield farming and staking options across multiple DeFi protocols. Coin98 offers various staking options within its ecosystem, allowing users to earn rewards on their holdings of the native Coin98 token (C98). 
 Below is a breakdown of the key offerings and available statistics:
 
@@ -132,6 +143,8 @@ Minimum Staking Amount: Varies depending on the pool, often starting from 10-50 
 # Coin98 Planned & Under Development Projects
 Coin98 doesn't rest on its laurels. Constant development is underway, with exciting projects like,
 Coin98 NFT: An NFT marketplace and management platform.
+![planned and underdevelopment project](https://github.com/rutufu/A-Deep-Dive-Into-Coin98-on-the-Solana-Ecosystem/assets/84708060/be48f039-a34f-48a3-8906-c3ca92a41773)
+
 
 Coin98 Launchpad: An avenue for promising crypto projects to raise funds and reach the community.
 
