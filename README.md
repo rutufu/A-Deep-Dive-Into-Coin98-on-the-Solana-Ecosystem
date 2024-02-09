@@ -2,6 +2,7 @@
 
 # PREFACE
 The decentralized finance (DeFi) landscape is bustling with diverse platforms vying for user attention. Among them is COIN98. Coin98 stands out for its all-in-one approach, aiming to become the "Gateway" bridging traditional finance (TradFi) users to the vast opportunities of DeFi. This deep dive explores Coin98's ecosystem, delving into its products, features, potential, and what makes it an exciting player in the space.
+
 ![coin98](https://github.com/rutufu/A-Deep-Dive-Into-Coin98-on-the-Solana-Ecosystem/assets/84708060/d1a32842-3818-4683-96bb-6dee0fd2efee)
 
 # INTRODUCTION TO COIN98
@@ -15,6 +16,8 @@ Recognizing the complexities and fragmentation of DeFi, Coin98 seeks to streamli
 
 
 # Coin98 Wallet
+![COIN98 WALLET](https://github.com/rutufu/A-Deep-Dive-Into-Coin98-on-the-Solana-Ecosystem/assets/84708060/8b12d765-2a29-4933-ac8f-81741278d5cc)
+
 A non-custodial wallet supporting multiple blockchains and offering secure storage for crypto assets.  A non-custodial cryptocurrency wallet that allows users to securely store, manage, and trade various digital assets across multiple blockchains. Essentially, it's your own personal vault for cryptocurrencies, accessible on both iOS and Android mobile apps.
 
 # The Key features includes;
